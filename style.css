@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+}
+main{
+    border: 2px solid black;
+    margin: 50px;
+}
+
+#tabella {
+    padding-right: 320px;
+    padding-left: 320px;
+}
+#tabella div {
+    border: 1px solid black;
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+    text-align: center;
+}
+section button{
+    margin: 40px;
+}
+section div {
+    padding: 20px;
+}
